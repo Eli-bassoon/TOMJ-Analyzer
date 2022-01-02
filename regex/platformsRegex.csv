@@ -1,0 +1,64 @@
+﻿pc|win(dows)?|computer|desktop|steam,PC,
+dos,DOS,
+mac(intosh)?,Mac,
+linux,Linux,
+x[- ]?box,Xbox,
+original x[-  ]?box,Xbox (original),
+360,Xbox 360,Xbox
+x ?box[- ]?(1|one)|xbone,Xbox 1,
+x ?box[- ]?series,Xbox Series X,
+(?<!ap)(ps|play ?station)(?!(p| ?vita))(?!pstore),PlayStation,
+(ps|play ?station) ?(1|one|x),PlayStation 1,
+(ps|play ?station) ?(2|two),PlayStation 2,
+(ps|play ?station) ?(3|three),PlayStation 3,
+(ps|play ?station) ?(4|four),PlayStation 4,
+(ps|play ?station) ?(5|five),PlayStation 5,
+psp|play ?station portable,PlayStation Portable,
+vita,PlayStation Vita,
+on[- ]?line|internet|browser|web|chrome,Browser,
+html5,HTML5,Browser
+shockwave,Shockwave,Browser
+flash|miniclip|not ?doppler|newgrounds|bubble ?box|1001games|kongregate,Flash,Browser
+facebook,Facebook,Browser
+mobile|phone,Mobile,
+tablet,Tablet,Mobile
+i[- ]?(os|phone|pad|pod)|(apple)? ?app ?store|app,iOS,Mobile
+android|google play|play ?store,Android,Mobile
+black ?berry,BlackBerry,Mobile
+nokia|n[- ]?gage,Nokia,Mobile
+plug[- ]?(and|'?n'?|&)[- ]?play,Plug & Play,
+nes|famicom,NES,Nintendo Console
+(?<!s)nes|super nintendo,SNES,Nintendo Console
+n(intendo)? ?64,Nintendo 64,Nintendo Console
+game ?cube,GameCube,Nintendo Console
+wii(?!( ?u)),Wii,Nintendo Console
+wii ?u,Wii U,Nintendo Console
+switch,Switch,Nintendo Console
+game[- ]?(and|&)[- ]?watch,Game & Watch,
+game ?boy|gb,Game Boy,
+game ?boy ?color|gbc,Game Boy Color,
+game ?boy ?advance|gba,Game Boy Advance,
+(?<!3)ds,Nintendo DS,
+3ds,Nintendo 3DS,
+sega,SEGA Console,
+master ?system,SEGA Master System,SEGA Console
+genesis|genisis|mega[- ]?drive,SEGA Genesis/Mega Drive,SEGA Console
+dream ?cast,Dreamcast,SEGA Console
+game ?gear,SEGA Game Gear,
+saturn,SEGA Saturn,SEGA Console
+arcade|neo ?geo|mame,Arcade,
+zx ?spectrum,ZX Spectrum,
+c(ommodore)? ?64,Commodore 64,
+amiga,Amiga,
+bbc ?micro,BBC Micro,
+acorn,Acorn PC,
+amstrad,Amstrad PC,
+roblox,Roblox,
+v[- ]?(tech|\.?smile),Vtech,
+console,Console (generic),
+handheld,Handheld (generic),
+kindle,Kindle,
+atari,Atari,
+leap ?frog,LeapFrog,
+airplane,Airplane Entertainment,
+unknown|^\?+$|don'?t know|idk|forg[oe]t|(un|not )sure|no (idea|clue),Unknown,
