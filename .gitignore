@@ -1,3 +1,4 @@
 praw.ini
 figures/*
+data/posts.csv
 .ipynb_checkpoints
